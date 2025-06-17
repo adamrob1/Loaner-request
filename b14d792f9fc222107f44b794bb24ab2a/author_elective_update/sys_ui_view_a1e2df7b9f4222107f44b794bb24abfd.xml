@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>cad</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 13:54:13</sys_created_on>
+        <sys_id>a1e2df7b9f4222107f44b794bb24abfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CAD</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">b14d792f9fc222107f44b794bb24ab2a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b14d792f9fc222107f44b794bb24ab2a</sys_scope>
+        <sys_update_name>sys_ui_view_a1e2df7b9f4222107f44b794bb24abfd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 13:54:13</sys_updated_on>
+        <title>CAD</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">b14d792f9fc222107f44b794bb24ab2a</application>
+        <file_path/>
+        <instance_id>4c7fcdef474aaa10cbd63629e16d43b1</instance_id>
+        <instance_name>nowlearning-nlinst02912918-3y32h-0001</instance_name>
+        <name>sys_ui_view_a1e2df7b9f4222107f44b794bb24abfd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>cad</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-17 13:54:13</sys_created_on><sys_id>a1e2df7b9f4222107f44b794bb24abfd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CAD</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">b14d792f9fc222107f44b794bb24ab2a</sys_package><sys_policy/><sys_scope display_value="Loaner Request">b14d792f9fc222107f44b794bb24ab2a</sys_scope><sys_update_name>sys_ui_view_a1e2df7b9f4222107f44b794bb24abfd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-17 13:54:13</sys_updated_on><title>CAD</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>1368084460</payload_hash>
+        <record_name>CAD</record_name>
+        <reverted_from/>
+        <source>85accaef9f0622107f44b794bb24ab89</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 13:54:13</sys_created_on>
+        <sys_id>e1e213bb9f4222107f44b794bb24ab00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1977e2b405a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 13:54:13</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>e5e2df7b334222105b92fb71a31cb5ff</update_guid>
+        <update_guid_history>e5e2df7b334222105b92fb71a31cb5ff:1368084460</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-17 14:12:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>51afbcc152ea47dea931f2386a8a30b9</sys_id>
+        <sys_metadata>a1e2df7b9f4222107f44b794bb24abfd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CAD</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">b14d792f9fc222107f44b794bb24ab2a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b14d792f9fc222107f44b794bb24ab2a</sys_scope>
+        <sys_scope_delete display_value="">147872ae94cc4b13abcd5ca576c28c61</sys_scope_delete>
+        <sys_update_name>sys_ui_view_a1e2df7b9f4222107f44b794bb24abfd</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_a1e2df7b9f4222107f44b794bb24abfd">e1e213bb9f4222107f44b794bb24ab00</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-17 14:12:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
