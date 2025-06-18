@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="Loaner Request">f9a774dc9fd222107f44b794bb24ab33</category>
+        <order>300</order>
+        <property display_value="x_cdltd_loaner_req.pickup.leadtime" name="x_cdltd_loaner_req.pickup.leadtime">8ed778dc9fd222107f44b794bb24ab27</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 16:06:43</sys_created_on>
+        <sys_id>9cca34d09f1622107f44b794bb24abaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.pickup.leadtime.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">b14d792f9fc222107f44b794bb24ab2a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b14d792f9fc222107f44b794bb24ab2a</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_9cca34d09f1622107f44b794bb24abaf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 16:06:43</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">b14d792f9fc222107f44b794bb24ab2a</application>
+        <file_path/>
+        <instance_id>4c7fcdef474aaa10cbd63629e16d43b1</instance_id>
+        <instance_name>nowlearning-nlinst02912918-3y32h-0001</instance_name>
+        <name>sys_properties_category_m2m_9cca34d09f1622107f44b794bb24abaf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="Loaner Request">f9a774dc9fd222107f44b794bb24ab33</category><order>300</order><property display_value="x_cdltd_loaner_req.pickup.leadtime" name="x_cdltd_loaner_req.pickup.leadtime">8ed778dc9fd222107f44b794bb24ab27</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-18 16:06:43</sys_created_on><sys_id>9cca34d09f1622107f44b794bb24abaf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_loaner_req.pickup.leadtime.Loaner Request</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">b14d792f9fc222107f44b794bb24ab2a</sys_package><sys_policy/><sys_scope display_value="Loaner Request">b14d792f9fc222107f44b794bb24ab2a</sys_scope><sys_update_name>sys_properties_category_m2m_9cca34d09f1622107f44b794bb24abaf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-18 16:06:43</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>556094338</payload_hash>
+        <record_name>x_cdltd_loaner_req.pickup.leadtime.Loaner Request</record_name>
+        <reverted_from/>
+        <source>85accaef9f0622107f44b794bb24ab89</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 16:06:43</sys_created_on>
+        <sys_id>d4daf4d09f1622107f44b794bb24abbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19783caec9b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 16:06:43</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>d8daf4d098162210d47c1974e79b71bc</update_guid>
+        <update_guid_history>d8daf4d098162210d47c1974e79b71bc:556094338</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 16:12:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>17678e062c444f77aa7c4a79b48d29f9</sys_id>
+        <sys_metadata>9cca34d09f1622107f44b794bb24abaf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.pickup.leadtime.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">b14d792f9fc222107f44b794bb24ab2a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b14d792f9fc222107f44b794bb24ab2a</sys_scope>
+        <sys_scope_delete display_value="">147872ae94cc4b13abcd5ca576c28c61</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_9cca34d09f1622107f44b794bb24abaf</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_9cca34d09f1622107f44b794bb24abaf">d4daf4d09f1622107f44b794bb24abbd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 16:12:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
